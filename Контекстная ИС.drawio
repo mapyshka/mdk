@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Страница-1" id="QJ7WS3k1M7XRyIZFKFnB">
+    <mxGraphModel dx="1403" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="520" as="sourcePoint" />
+            <mxPoint x="600" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Управление деятельностью птицефермы" vertex="1">
+          <mxGeometry height="100" width="210" x="320" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А0" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-6" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="6Qou6Ukp5ARkBSJ4v_Z8-1" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <mxPoint x="410" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Сырье и товары" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-8" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сотрудники и персонал" vertex="1">
+          <mxGeometry height="30" width="60" x="395" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-10" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="200" y="564" as="sourcePoint" />
+            <mxPoint x="319.52" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-11" parent="1" style="text;whiteSpace=wrap;" value="Потребители и клиенты" vertex="1">
+          <mxGeometry height="40" width="170" x="180" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-13" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="200.48000000000002" y="510" as="sourcePoint" />
+            <mxPoint x="320" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-14" parent="1" style="text;whiteSpace=wrap;" value="Нормативно-правовая база и законы" vertex="1">
+          <mxGeometry height="40" width="240" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-15" parent="1" style="text;whiteSpace=wrap;" value="Внутренние распоряжения и политика компании" vertex="1">
+          <mxGeometry height="40" width="170" x="150" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-18" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="6Qou6Ukp5ARkBSJ4v_Z8-1" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="320" y="670" as="sourcePoint" />
+            <mxPoint x="410" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="484" as="sourcePoint" />
+            <mxPoint x="600" y="484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="583.52" as="sourcePoint" />
+            <mxPoint x="600" y="583.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="554" as="sourcePoint" />
+            <mxPoint x="600" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-23" parent="1" style="text;whiteSpace=wrap;" value="Готовая продукция" vertex="1">
+          <mxGeometry height="10" width="70" x="530" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-24" parent="1" style="text;whiteSpace=wrap;" value="Финансовая отчетность и налоговые декларации" vertex="1">
+          <mxGeometry height="30" width="180" x="600" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-25" parent="1" style="text;whiteSpace=wrap;" value="Закупленные материалы и услуги" vertex="1">
+          <mxGeometry height="40" width="140" x="600" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qou6Ukp5ARkBSJ4v_Z8-26" parent="1" style="text;whiteSpace=wrap;" value="Товары и услуги клиентам" vertex="1">
+          <mxGeometry height="40" width="130" x="600" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
